@@ -1,0 +1,9 @@
+C:\Users\Austin\Desktop\Spoofer\bin\Release\Spoofer.exe
+C:\Users\Austin\Desktop\Spoofer\bin\Release\Spoofer.pdb
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.Form1.resources
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.Properties.Resources.resources
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.csproj.GenerateResource.cache
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.exe
+C:\Users\Austin\Desktop\Spoofer\obj\Release\Spoofer.pdb
